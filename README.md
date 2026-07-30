@@ -1,8 +1,7 @@
 ## 📂 Proyectos
 
-### 📊 Automatización de Reportes Financieros con Excel VBA
-Automatización de reportes financieros mediante macros en VBA.
+### Leadership Workshop Analytics Dashboard
 
-🔗 Ver proyecto:
-https://github.com/Szpock86/Excel-VBA-Financial-Report
+Proyecto:
+https://github.com/Szpock86/Leadership-Workshop-Analytics-Dashboard
 
